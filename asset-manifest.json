@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/unified-inbox/static/css/main.72188f33.chunk.css",
-    "main.js": "/unified-inbox/static/js/main.769e6fed.chunk.js",
-    "main.js.map": "/unified-inbox/static/js/main.769e6fed.chunk.js.map",
+    "main.css": "/unified-inbox/static/css/main.1da8a7a1.chunk.css",
+    "main.js": "/unified-inbox/static/js/main.5cbd1b6e.chunk.js",
+    "main.js.map": "/unified-inbox/static/js/main.5cbd1b6e.chunk.js.map",
     "runtime-main.js": "/unified-inbox/static/js/runtime-main.c8d716e8.js",
     "runtime-main.js.map": "/unified-inbox/static/js/runtime-main.c8d716e8.js.map",
-    "static/css/2.4bc51efc.chunk.css": "/unified-inbox/static/css/2.4bc51efc.chunk.css",
-    "static/js/2.be66e72a.chunk.js": "/unified-inbox/static/js/2.be66e72a.chunk.js",
-    "static/js/2.be66e72a.chunk.js.map": "/unified-inbox/static/js/2.be66e72a.chunk.js.map",
+    "static/css/2.ea345f92.chunk.css": "/unified-inbox/static/css/2.ea345f92.chunk.css",
+    "static/js/2.2ef8acc4.chunk.js": "/unified-inbox/static/js/2.2ef8acc4.chunk.js",
+    "static/js/2.2ef8acc4.chunk.js.map": "/unified-inbox/static/js/2.2ef8acc4.chunk.js.map",
     "index.html": "/unified-inbox/index.html",
-    "precache-manifest.27d3fc7c85538c5a5428102563930633.js": "/unified-inbox/precache-manifest.27d3fc7c85538c5a5428102563930633.js",
+    "precache-manifest.ddd54bde8a2fe8fbe45534d3798ab6ca.js": "/unified-inbox/precache-manifest.ddd54bde8a2fe8fbe45534d3798ab6ca.js",
     "service-worker.js": "/unified-inbox/service-worker.js",
-    "static/css/2.4bc51efc.chunk.css.map": "/unified-inbox/static/css/2.4bc51efc.chunk.css.map",
-    "static/css/main.72188f33.chunk.css.map": "/unified-inbox/static/css/main.72188f33.chunk.css.map",
-    "static/js/2.be66e72a.chunk.js.LICENSE.txt": "/unified-inbox/static/js/2.be66e72a.chunk.js.LICENSE.txt",
+    "static/css/2.ea345f92.chunk.css.map": "/unified-inbox/static/css/2.ea345f92.chunk.css.map",
+    "static/css/main.1da8a7a1.chunk.css.map": "/unified-inbox/static/css/main.1da8a7a1.chunk.css.map",
+    "static/js/2.2ef8acc4.chunk.js.LICENSE.txt": "/unified-inbox/static/js/2.2ef8acc4.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/unified-inbox/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/index.css": "/unified-inbox/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.c8d716e8.js",
-    "static/css/2.4bc51efc.chunk.css",
-    "static/js/2.be66e72a.chunk.js",
-    "static/css/main.72188f33.chunk.css",
-    "static/js/main.769e6fed.chunk.js"
+    "static/css/2.ea345f92.chunk.css",
+    "static/js/2.2ef8acc4.chunk.js",
+    "static/css/main.1da8a7a1.chunk.css",
+    "static/js/main.5cbd1b6e.chunk.js"
   ]
 }
