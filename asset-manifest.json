@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/unified-inbox/static/css/main.1da8a7a1.chunk.css",
-    "main.js": "/unified-inbox/static/js/main.a52d585f.chunk.js",
-    "main.js.map": "/unified-inbox/static/js/main.a52d585f.chunk.js.map",
+    "main.js": "/unified-inbox/static/js/main.7fd24bf6.chunk.js",
+    "main.js.map": "/unified-inbox/static/js/main.7fd24bf6.chunk.js.map",
     "runtime-main.js": "/unified-inbox/static/js/runtime-main.c8d716e8.js",
     "runtime-main.js.map": "/unified-inbox/static/js/runtime-main.c8d716e8.js.map",
-    "static/css/2.4bc51efc.chunk.css": "/unified-inbox/static/css/2.4bc51efc.chunk.css",
-    "static/js/2.c50ea605.chunk.js": "/unified-inbox/static/js/2.c50ea605.chunk.js",
-    "static/js/2.c50ea605.chunk.js.map": "/unified-inbox/static/js/2.c50ea605.chunk.js.map",
+    "static/css/2.86672743.chunk.css": "/unified-inbox/static/css/2.86672743.chunk.css",
+    "static/js/2.b81a7090.chunk.js": "/unified-inbox/static/js/2.b81a7090.chunk.js",
+    "static/js/2.b81a7090.chunk.js.map": "/unified-inbox/static/js/2.b81a7090.chunk.js.map",
     "index.html": "/unified-inbox/index.html",
-    "precache-manifest.38745b6e500a275a585da14621f4bef1.js": "/unified-inbox/precache-manifest.38745b6e500a275a585da14621f4bef1.js",
+    "precache-manifest.d2f6a0168ea22ac6e141282e5f52f029.js": "/unified-inbox/precache-manifest.d2f6a0168ea22ac6e141282e5f52f029.js",
     "service-worker.js": "/unified-inbox/service-worker.js",
-    "static/css/2.4bc51efc.chunk.css.map": "/unified-inbox/static/css/2.4bc51efc.chunk.css.map",
+    "static/css/2.86672743.chunk.css.map": "/unified-inbox/static/css/2.86672743.chunk.css.map",
     "static/css/main.1da8a7a1.chunk.css.map": "/unified-inbox/static/css/main.1da8a7a1.chunk.css.map",
-    "static/js/2.c50ea605.chunk.js.LICENSE.txt": "/unified-inbox/static/js/2.c50ea605.chunk.js.LICENSE.txt",
+    "static/js/2.b81a7090.chunk.js.LICENSE.txt": "/unified-inbox/static/js/2.b81a7090.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/unified-inbox/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/index.css": "/unified-inbox/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.c8d716e8.js",
-    "static/css/2.4bc51efc.chunk.css",
-    "static/js/2.c50ea605.chunk.js",
+    "static/css/2.86672743.chunk.css",
+    "static/js/2.b81a7090.chunk.js",
     "static/css/main.1da8a7a1.chunk.css",
-    "static/js/main.a52d585f.chunk.js"
+    "static/js/main.7fd24bf6.chunk.js"
   ]
 }
