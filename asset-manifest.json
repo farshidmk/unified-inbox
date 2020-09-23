@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/unified-inbox/static/css/main.1da8a7a1.chunk.css",
-    "main.js": "/unified-inbox/static/js/main.53982668.chunk.js",
-    "main.js.map": "/unified-inbox/static/js/main.53982668.chunk.js.map",
+    "main.js": "/unified-inbox/static/js/main.b8ddcefe.chunk.js",
+    "main.js.map": "/unified-inbox/static/js/main.b8ddcefe.chunk.js.map",
     "runtime-main.js": "/unified-inbox/static/js/runtime-main.c8d716e8.js",
     "runtime-main.js.map": "/unified-inbox/static/js/runtime-main.c8d716e8.js.map",
     "static/css/2.86672743.chunk.css": "/unified-inbox/static/css/2.86672743.chunk.css",
     "static/js/2.7de989ec.chunk.js": "/unified-inbox/static/js/2.7de989ec.chunk.js",
     "static/js/2.7de989ec.chunk.js.map": "/unified-inbox/static/js/2.7de989ec.chunk.js.map",
     "index.html": "/unified-inbox/index.html",
-    "precache-manifest.39a69d240cad5aa65f36e7bf0c8f3d0b.js": "/unified-inbox/precache-manifest.39a69d240cad5aa65f36e7bf0c8f3d0b.js",
+    "precache-manifest.eeb1ac73e55e2d1ed021a9b9aca2877d.js": "/unified-inbox/precache-manifest.eeb1ac73e55e2d1ed021a9b9aca2877d.js",
     "service-worker.js": "/unified-inbox/service-worker.js",
     "static/css/2.86672743.chunk.css.map": "/unified-inbox/static/css/2.86672743.chunk.css.map",
     "static/css/main.1da8a7a1.chunk.css.map": "/unified-inbox/static/css/main.1da8a7a1.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.86672743.chunk.css",
     "static/js/2.7de989ec.chunk.js",
     "static/css/main.1da8a7a1.chunk.css",
-    "static/js/main.53982668.chunk.js"
+    "static/js/main.b8ddcefe.chunk.js"
   ]
 }
